@@ -1,0 +1,7 @@
+MPIP15/.spyproject/
+MPIP15/__pycache__/
+MPIP15/*.pkl
+MPIP15/uploads/
+MPIP15/static/
+MPIP15/img/
+*.code-workspace
